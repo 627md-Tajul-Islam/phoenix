@@ -180,3 +180,18 @@
   transform: scale(1.05)
 }
 /* #bartholomew(ec6cc8e186617bf6) #css ends  */   
+
+/* #bannu(9aaf5d9db46220bf) #css starts  */
+.bannerb9aaf5d9db46220bf .button {
+    background-color: rgb(79, 57, 99);
+    color: wheat
+}
+
+.bannerb9aaf5d9db46220bf .button:hover {
+    color: wheat
+}
+.bannerb9aaf5d9db46220bf .background{
+    background-image: url(https://images.pexels.com/photos/1546901/pexels-photo-1546901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    padding: 50px
+}
+/* #bannu(9aaf5d9db46220bf) #css ends  */
