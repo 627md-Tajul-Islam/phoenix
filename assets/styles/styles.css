@@ -1,35 +1,11 @@
 :root {
-    --brand-color: #1E73BE;
-    --light-brand-color: #EF57F2;
-    --text-color:  #000000;
-    --light-text-color: #7C7C7C;
-    --alert-color:  #EDED00 ;
-    --success-color: #67E500;
-    --warning-color: #2539EA;
-    --error-color: #EA0000;
-    --black-color: #343434;
-    --main-background-color : #f8f9fa;
-    --light-background-color : #fbfbfb;
+   
     --default-font : Roboto, sans-serif;
     --primary-font : Roboto Condensed, sans-serif;
     --secondary-font : Roboto, sans-serif;
     --thirdprimary-font : Roboto Mono, sans-serif;
-    --bayan-background-image : url(https://builder.moksy.com/wp-content/uploads/2022/08/main-banner-5.jpg);
-    --baird-background-image : url(https://builder.moksy.com/wp-content/uploads/2022/08/main-banner-5.jpg);
-    --balin-background-image :  url(https://builder.moksy.com/wp-content/uploads/2022/08/main-banner-5.jpg);
-    --fortune-background-image :  url(https://builder.moksy.com/wp-content/uploads/2022/08/london.png);
-    --barack-background-image : url(https://builder.moksy.com/wp-content/uploads/2022/08/london.png);
-    --cullen-background-image : url()
+}
 
-}
-/* ============== #colton #comment form start  ============== */
-.colton .comment-form {
-    clear: both;
-}
-.colton .comment-form textarea {
-    height:160px;
-}
-/* ============== #colton #comment form end  ============== */
 
 
 html, body {
