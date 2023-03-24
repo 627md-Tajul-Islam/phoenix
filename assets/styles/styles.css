@@ -251,18 +251,6 @@
         margin-right: 25px
     }
 
-    .serviced04850298895e70a .services-block-box .fa-code {
-        margin-right: 5px
-    }
-
-    .serviced04850298895e70a .services-block-box .fa-envelope-o {
-        margin-right: 20px
-    }
-
-    .serviced04850298895e70a .services-block-box .fa-bookmark-o {
-        margin-right: 25px
-    }
-
     .serviced04850298895e70a .services-block-box p {
         display: inline-block;
         margin: 0;
@@ -302,10 +290,7 @@
         .serviced04850298895e70a .services-block-box p {
             display: block
         }
-
-        .serviced04850298895e70a .services-block-box .fa-code {
-            margin-right: 25px
-        }
+      
     }
 
     /* for max-width 920px */
@@ -331,8 +316,5 @@
             display: block
         }
 
-        .serviced04850298895e70a .services-block-box .fa-code {
-            margin-right: 25px
-        }
     }
     /* #segal(d04850298895e70a) #css ends  */
