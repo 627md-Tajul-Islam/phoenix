@@ -364,3 +364,18 @@
         margin-top: 70px;
     }
     /* #agdu(d390a380620aac0e) #css ends  */
+
+    /* #balu(b9ce7550acbf1ce9f) #css starts  */
+    .bannerb9ce7550acbf1ce9f .button {
+        background-color: rgb(79, 57, 99);
+        color: wheat
+    }
+
+    .bannerb9ce7550acbf1ce9f .button:hover {
+        color: wheat
+    }
+    .bannerb9ce7550acbf1ce9f .background{
+        background-image: url(http://rb.gy/5rpuxs);
+        padding: 50px
+    }
+    /* #balu(b9ce7550acbf1ce9f) #css ends  */    
