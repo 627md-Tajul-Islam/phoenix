@@ -1,3 +1,4 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800);
 /* #marshall(a9823ff3dfbdaa29) #css starts  */
 #menua9823ff3dfbdaa29 {
     min-height: 8vh;
@@ -93,3 +94,89 @@
     }
 
     /* #annu(eb092de7c8df0610) #css ends  */
+
+ /* #bartholomew(ec6cc8e186617bf6) #css starts  */
+.blogec6cc8e186617bf6 .blog-home3 {
+  font-family: "Montserrat", sans-serif;
+  color: #8d97ad;
+  font-weight: 300
+}
+
+.blogec6cc8e186617bf6 .blog-home3 h3,
+.blogec6cc8e186617bf6 .blog-home3 h5,
+.blogec6cc8e186617bf6 .blog-home3 h6 {
+  color: #3e4555
+}
+
+.blogec6cc8e186617bf6 .blog-home3 h5 {
+    line-height: 22px;
+    font-size: 18px
+}
+
+.blogec6cc8e186617bf6 .blog-home3 a.link {
+    color: #3e4555
+}
+
+.blogec6cc8e186617bf6 .blog-home3 a.link:hover {
+    color: #316ce8
+}
+
+.blogec6cc8e186617bf6 .blog-home3 .font-weight-medium {
+  font-weight: 500
+}
+
+.blogec6cc8e186617bf6 .blog-home3 .bg-light {
+  background-color: #f4f8fa
+}
+
+.blogec6cc8e186617bf6 .blog-home3 .subtitle {
+  color: #8d97ad;
+  line-height: 24px
+}
+
+.blogec6cc8e186617bf6 .blog-home3 .card.card-shadow {
+  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1)
+}
+
+.blogec6cc8e186617bf6 .blog-home3 .on-hover {
+  -webkit-transition: 0.2s ease-in;
+  -o-transition: 0.2s ease-in;
+  transition: 0.2s ease-in
+}
+
+.blogec6cc8e186617bf6 .blog-home3 .on-hover:hover {
+  -webkit-transform: translateY(-10px);
+  -ms-transform: translateY(-10px);
+  transform: translateY(-10px)
+}
+
+.blogec6cc8e186617bf6 .blog-home3 .bg-success-gradient {
+  background: #2cdd9b;
+  background: -webkit-linear-gradient(legacy-direction(to right), #2cdd9b 0%, #1dc8cc 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#2cdd9b), to(#1dc8cc));
+  background: -webkit-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+  background: -o-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+  background: linear-gradient(to right, #2cdd9b 0%, #1dc8cc 100%)
+}
+
+.blogec6cc8e186617bf6 .blog-home3 .date-pos {
+  font-size: 12px
+}
+
+.blogec6cc8e186617bf6 .blog-home3 a {
+  overflow: hidden
+}
+
+.blogec6cc8e186617bf6 .blog-home3 a img {
+  -webkit-transition: 0.2s ease-in;
+  -o-transition: 0.2s ease-in;
+  transition: 0.2s ease-in
+}
+
+.blogec6cc8e186617bf6 .blog-home3 a img:hover {
+  -webkit-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  transform: scale(1.05)
+}
+/* #bartholomew(ec6cc8e186617bf6) #css ends  */   
